@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  padding: 20px;
+  font-size: 20px;
+  background: #4530FF;
+background: radial-gradient(ellipse farthest-side at center center, #4530FF 100%, #FFFFFF 98%, #00FF00 50%, #B46ACF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+
+section h2 {
+  font-size: 150px;
+  background: #4530FF;
+background: radial-gradient(ellipse farthest-side at center center, #4530FF 100%, #FFFFFF 98%, #00FF00 50%, #B46ACF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+}
+
+
+
+
+
